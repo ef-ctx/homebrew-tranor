@@ -6,7 +6,7 @@ Allow MacOS users to install tranor using brew.
 
 First, add this third-party repository to brew:
 
-% brew tap ef-ctx/homebrew-tranor
+% brew tap ef-ctx/tranor
 
 Then install tranor:
 
